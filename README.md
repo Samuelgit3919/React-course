@@ -1,5 +1,6 @@
 React Course from Scratch
-  This repository contains a step-by-step React.js learning course designed for beginners who want to learn React from the ground up.
+ 
+    This repository contains a step-by-step React.js learning course designed for beginners who want to learn React from the ground up.
 
 Course Structure
   The course is organized in a progressive manner, with each step building on the previous one:
@@ -42,12 +43,14 @@ Start the development server:
     npm start
 
 Prerequisites
+
     Before starting this course, you should have:
     Basic knowledge of HTML, CSS, and JavaScript (ES6+)
     Node.js and npm installed on your machine
     A code editor (VS Code recommended)
 
 How to Use This Course
+
     Work through the lessons in order
     Each lesson has its own README with explanations and exercises
     Try to complete exercises before looking at solutions

@@ -1,0 +1,30 @@
+.middle_container {
+    /* background-color: rgb(54, 63, 63); */
+    padding: 5px 20px;
+    margin-top: 5rem;
+    color: gray;
+    height: 100px;
+    width: 60%;
+}
+
+/* .middle_container h1 {
+   
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+} */
+
+.middle_container p {
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.middle_container ul {
+    /* display: block;
+    list-style: none;
+    gap: 20px;
+   
+    font-size: 20px;
+    justify-content: center; */
+}
